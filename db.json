@@ -1,4 +1,9 @@
 {
+  "_id": "network",
+  "_rev": "4-b17ec6d153a40c1c6e31eb7701a9fafc",
+  "value": "192.168.1.0",
+  "prefix": "24",
+  "router": "192.168.1.1",
   "posts": [
     {
       "id": 1,
